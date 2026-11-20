@@ -1,0 +1,88 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "insights": "Insights",
+    "faq": "FAQ",
+    "contact": "Contact Us"
+  },
+  "servicesMenu": {
+    "customSoftware": "Custom Software Development",
+    "enterprise": "Enterprise Solutions",
+    "cloud": "Cloud & DevOps",
+    "ai": "AI & Automation",
+    "consulting": "IT Consulting & Support"
+  },
+  "hero": {
+    "heading": "Custom Software, Cloud & AI Solutions for Smarter Businesses",
+    "subheading": "SKYVISTA JOURNEYS LLP helps businesses worldwide build scalable software, modernize operations, and automate workflows with AI — backed by specialized expertise in travel technology.",
+    "btnPrimary": "Discuss Your Project",
+    "btnSecondary": "Explore Our Services"
+  },
+  "trust": {
+    "global": "Global Clientele",
+    "custom": "Custom-Built Solutions",
+    "ai": "AI-Driven Automation",
+    "travel": "Travel-Tech Specialists",
+    "support": "Dedicated Support"
+  },
+  "servicesSection": {
+    "title": "What We Do",
+    "subtitle": "End-to-end technology solutions designed around your business goals.",
+    "learnMore": "Learn More →",
+    "s1Title": "Custom Software Development",
+    "s1Desc": "We design and build web, mobile, and SaaS applications tailored to your exact business requirements.",
+    "s2Title": "Enterprise Solutions",
+    "s2Desc": "Digital transformation, automation, and system integration for growing businesses.",
+    "s3Title": "Cloud & DevOps",
+    "s3Desc": "Secure, scalable cloud architecture and managed deployment pipelines.",
+    "s4Title": "AI & Automation",
+    "s4Desc": "Intelligent workflows, chatbots, and automation that reduce manual work.",
+    "s5Title": "IT Consulting & Support",
+    "s5Desc": "Expert guidance, dedicated teams, and ongoing technical support."
+  },
+  "travel": {
+    "title": "Technology Expertise Built for the Travel Industry",
+    "body": "Travel businesses run on complex, interconnected systems — bookings, suppliers, pricing, and customer communication, all happening in real time. We understand these challenges because travel technology is where SKYVISTA began.",
+    "tags": "B2B & B2C Travel Portals · Booking Engines · API Integrations · Travel Workflow Automation",
+    "btn": "Talk to a Travel-Tech Expert"
+  },
+  "why": {
+    "title": "Why Businesses Choose SKYVISTA",
+    "w1": "Custom-built, not templated — Every solution is designed around your specific business.",
+    "w2": "Business-first approach — We start with your goals, then find the right technology.",
+    "w3": "AI built into our DNA — Automation and intelligence are woven into how we build.",
+    "w4": "Cloud-ready from day one — Every solution is architected to scale with your business.",
+    "w5": "Travel-tech specialists — Rare, hands-on expertise in a complex industry.",
+    "w6": "Partners beyond delivery — We stay engaged through support, maintenance, and growth."
+  },
+  "outcomes": {
+    "title": "Technology That Solves Real Business Problems",
+    "o1": "Automate repetitive manual work so your team can focus on what matters",
+    "o2": "Modernize outdated systems without disrupting daily operations",
+    "o3": "Build scalable digital platforms ready for your next stage of growth",
+    "o4": "Integrate disconnected tools and APIs into one connected ecosystem",
+    "o5": "Improve customer experience with AI-powered interactions",
+    "o6": "Make faster, smarter decisions with real-time data dashboards"
+  },
+  "work": {
+    "title": "Our Work",
+    "desc": "We are preparing detailed case studies to showcase our delivery expertise. Selected work coming soon.",
+    "btn": "Discuss Your Project Instead →"
+  },
+  "cta": {
+    "title": "Have a Software, Cloud, or AI Project in Mind?",
+    "desc": "Tell us about your business requirement, and our team will get in touch with you.",
+    "btn": "Start Your Project Enquiry"
+  },
+  "footer": {
+    "tagline": "Custom Software, Cloud & AI Solutions for Smarter Businesses",
+    "company": "Company",
+    "services": "Services",
+    "resources": "Resources",
+    "contact": "Contact",
+    "rights": "All rights reserved."
+  }
+}
