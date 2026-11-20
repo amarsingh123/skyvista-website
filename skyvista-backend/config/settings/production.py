@@ -14,7 +14,7 @@ SECURE_HSTS_INCLUDE_SUBDOMAINS = True
 # Render provides DATABASE_URL automatically when you link a PostgreSQL instance
 DATABASES = {
     'default': dj_database_url.config(
-        default=config('postgresql://skyvista_db_user:vJQ97EErWHtwK9dOgKxaOxLbQffcd8m5@dpg-dbvv2bui0phs73b86vn0-a/skyvista_db'),
+        default=config('DATABASE_URL'),
         conn_max_age=600,
         ssl_require=True
     )
